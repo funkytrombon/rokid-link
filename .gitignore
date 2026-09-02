@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.swiftpm/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+glasses-app/build/
+glasses-app/.gradle/
+glasses-app/local.properties
